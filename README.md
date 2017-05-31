@@ -1,1 +1,1 @@
-# accordion
+# Jquery accordion
